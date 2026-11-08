@@ -20,9 +20,9 @@ It is a 3-class classification problem. Five classifiers (Logistic Regression, D
 
 | Item | Value |
 |---|---|
-| Source | Social Media Impact on Life, Kaggle: `<paste the Kaggle dataset URL here>` |
+| Source | Social Media Impact on Life, Kaggle: `https://www.kaggle.com/datasets/harishyadav0506/impact-of-social-media-on-life` |
 | Instances | 4,500 (no duplicate rows) |
-| Features | 14 input features (the `Student_ID` column is only an identifier and is not used). Requirement: at least 12 features and 500 instances |
+| Features | 14 input features. Requirement: at least 12 features and 500 instances |
 | Target | `Overall_Impact` with 3 classes |
 | Class counts | Beneficial 3,681 (81.80%), Neutral 654 (14.53%), Negative 165 (3.67%). The dataset is strongly imbalanced |
 
