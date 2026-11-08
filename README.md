@@ -6,7 +6,7 @@ Classifying the overall impact of social media use on students with five machine
 **BITS ID:** 2026AJ05448  
 **Course:** Machine Learning, M.Tech (AIML), BITS Pilani WILP  
 **GitHub repository:** `https://github.com/Yashh03/ml-assignment2-social-media-impact`  
-**Live Streamlit app:** `<paste your Streamlit Community Cloud link here>`
+**Live Streamlit app:** `https://social-media-impact-on-life.streamlit.app`
 
 ---
 
@@ -83,7 +83,7 @@ Number of wrong predictions out of 900: SVM 12, Logistic Regression 17, Decision
 
 ## e. Streamlit app
 
-Live app: `<paste your Streamlit Community Cloud link here>`
+Live app: `https://social-media-impact-on-life.streamlit.app`
 
 The app loads the saved models from `model/` and never retrains.
 
